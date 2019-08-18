@@ -1,0 +1,33 @@
+.create-form {
+  width: 500px;
+  margin-top: 90px;
+  padding: 40px;
+  border-style: solid;
+  border-width: 0.2px;
+  box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+}
+
+.new-cocktail-page {
+  background-color: black;
+  margin-bottom: 0;
+  height: 700px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.create-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.create {
+  color: white;
+  padding-left: 0px;
+}
+
+.choose-photo {
+  color: white;
+}
+
